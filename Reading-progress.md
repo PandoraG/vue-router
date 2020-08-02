@@ -57,7 +57,7 @@ Total : 163 files,  12101 codes, 1665 comments, 2891 blanks, all 16657 lines
 | filename | language | code | comment | blank | total |
 | :--- | :--- | ---: | ---: | ---: | ---: |
 | :white_check_mark: [README.md](/README.md) | Markdown | 43 | 0 | 29 | 72 |
-| [bower.json](/bower.json) | JSON | 25 | 0 | 1 | 26 |
+| :white_check_mark: [bower.json](/bower.json) | JSON | 25 | 0 | 1 | 26 |
 | [build/build.js](/build/build.js) | JavaScript | 60 | 3 | 6 | 69 |
 | [build/ci.sh](/build/ci.sh) | Shell Script | 11 | 4 | 1 | 16 |
 | [build/e2e.sh](/build/e2e.sh) | Shell Script | 11 | 3 | 3 | 17 |
@@ -220,5 +220,5 @@ Total : 163 files,  12101 codes, 1665 comments, 2891 blanks, all 16657 lines
 | [test/unit/specs/util.js](/test/unit/specs/util.js) | JavaScript | 43 | 2 | 7 | 52 |
 | [test/unit/webpack.config.js](/test/unit/webpack.config.js) | JavaScript | 16 | 0 | 1 | 17 |
 | Total    |            |     12,101 |      1,665 |      2,891 |     16,657 |
-| Readed   |            |        0   |            |            |            |
-| Progress |            |        0%  |            |            |            |
+| Readed   |            |        68   |            |            |            |
+| Progress |            |        0.56%  |            |            |            |
