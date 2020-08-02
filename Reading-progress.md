@@ -56,7 +56,7 @@ Total : 163 files,  12101 codes, 1665 comments, 2891 blanks, all 16657 lines
 ## 文件
 | filename | language | code | comment | blank | total |
 | :--- | :--- | ---: | ---: | ---: | ---: |
-| [README.md](/README.md) | Markdown | 43 | 0 | 29 | 72 |
+| :white_check_mark: [README.md](/README.md) | Markdown | 43 | 0 | 29 | 72 |
 | [bower.json](/bower.json) | JSON | 25 | 0 | 1 | 26 |
 | [build/build.js](/build/build.js) | JavaScript | 60 | 3 | 6 | 69 |
 | [build/ci.sh](/build/ci.sh) | Shell Script | 11 | 4 | 1 | 16 |
